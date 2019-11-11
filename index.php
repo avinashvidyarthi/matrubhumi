@@ -44,28 +44,28 @@
                          <img src="assets/images/logo-matrubhumi-2544x1715.jpg" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="index.html">MATRUBHUMI SHELTERS</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="index.php">MATRUBHUMI SHELTERS</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown open">
-                    <a class="nav-link link text-white dropdown-toggle display-4" href="page2.html" data-toggle="dropdown-submenu" aria-expanded="true">
+                    <a class="nav-link link text-white dropdown-toggle display-4" href="page2.php" data-toggle="dropdown-submenu" aria-expanded="true">
                         
-                        Sri Achyutananda Residency<br></a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="page2.html">Total Layout<br></a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="https://mobirise.com" aria-expanded="false" data-toggle="dropdown-submenu">Floor Plan</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">Day View</a><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">Night View</a></div></div><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">3 Bedrooms</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">2 Bedrooms Classic</a><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">2 Bedrooms Premium</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">2 Bedrooms Standard</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">1 Bedroom</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">Amenities</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">Commercial Activities</a></div>
+                        Sri Achyutananda Residency<br></a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="page2.php">Total Layout<br></a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="https://mobirise.com" aria-expanded="false" data-toggle="dropdown-submenu">Floor Plan</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">Day View</a><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">Night View</a></div></div><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">3 Bedrooms</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">2 Bedrooms Classic</a><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">2 Bedrooms Premium</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">2 Bedrooms Standard</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">1 Bedroom</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">Amenities</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">Commercial Activities</a></div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="index.html#content7-r">
+                    <a class="nav-link link text-white display-4" href="index.php#content7-r">
                         
                         About Company</a>
-                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="page1.html">
-                        Future Projects</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html#footer1-c">
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="page1.php">
+                        Future Projects</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.php#footer1-c">
                         Contact &nbsp;Us</a></li></ul>
             
         </div>
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.co/m">bootstrap table</a></section><section class="cid-rHfaDKeIh2 mbr-fullscreen mbr-parallax-background" id="header2-h">
+<section class="engine"><a href="https://mobirise.co/k">free bootstrap template</a></section><section class="cid-rHfaDKeIh2 mbr-fullscreen mbr-parallax-background" id="header2-h">
 
     
 
@@ -124,7 +124,7 @@
                 <div class="mbr-section-text mbr-white pb-3 ">
                     <p class="mbr-text mbr-fonts-style display-5"></p>
                 </div>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="page2.html">LEARN MORE</a> <a class="btn btn-md btn-white display-4" href="assets/files/Matrubhumi S A R - E Brochure.pdf" target="_blank">Download Brochure</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="page2.php">LEARN MORE</a> <a class="btn btn-md btn-white display-4" href="assets/files/Matrubhumi S A R - E Brochure.pdf" target="_blank">Download Brochure</a></div>
             </div>
         </div>
     </div>
@@ -185,7 +185,7 @@
                 </div>
                 <div data-form-type="formoid">
                     <div data-form-alert="" hidden="">Thanks for filling out the form!</div>
-                    <form class="block mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="0rZ3qHbJU/opjNodv4V8RMV2DUVXsr1gYA1FOtAsVMDUbn0b8fn0dq6kFzjxkPNR54fccXfPSm5X9TCDmVztUEemvzQyJyooufwWkGKfc8DNXZylJy82pABDFYkpzUMz">
+                    <form class="block mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="TKJ5vz2atqUNUWH+lNvR2CDt8G6AxRYRu2S1NN8Cv90FviTcguqECj9aJl8L8DyTqth0t9wKXtRMnqFR6FZhFPN9INd7yfjyMlDiNDrF0E88IsfihINMrz4wE7scPnDu">
                         <div class="row">
                             <div class="col-md-6 multi-horizontal" data-for="name">
                                 <input type="text" class="form-control input" name="name" data-form-field="Name" placeholder="Your Name" required="" id="name-form4-b">
@@ -228,20 +228,20 @@
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">Corporate Address
                 </h5>
-                <p class="mbr-text">MSPL Duplex-19, <br>In front of D.A.V. Public School, Sailashree Vihar, Chandrashekharpur, Bhubhneshwar, Orrisa - 751021</p>
+                <p class="mbr-text">Matrubhumi Shelters Pvt. Ltd,<br>Duplex-19, <br>In front of D.A.V. Public School, Sailashree Vihar, Chandrashekharpur, Bhubhneshwar, Orrisa - 751021</p>
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">
                     Contacts
                 </h5>
                 <p class="mbr-text">
-                    Email: psdasmspl@gmail.com                    <br>Phone: (+91) 7008166996<br></p>
+                    Email: <a href="mailto:info@matrubhumishelters.com">info@matrubhumishelters.com </a>                  <br>Phone: <a href="tel:+917008166996">(+91) 7008166996</a><br></p>
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">
                     Links
                 </h5>
-                <p class="mbr-text"><a href="index.html#content7-r">About Company</a><br><a href="page1.html">Future Projects</a><br><a href="page2.html">Sri Achyutananda Residency</a><a href="page1.html"><br></a><a href="index.html#content7-r"><br></a><a href="index.html#content7-r"><br></a></p>
+                <p class="mbr-text"><a href="index.php#content7-r">About Company</a><br><a href="page1.php">Future Projects</a><br><a href="page2.php">Sri Achyutananda Residency</a><a href="page1.php"><br></a><a href="index.php#content7-r"><br></a><a href="index.php#content7-r"><br></a></p>
             </div>
         </div>
         

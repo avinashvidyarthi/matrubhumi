@@ -42,28 +42,28 @@
                          <img src="assets/images/logo-matrubhumi-2544x1715.jpg" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="index.html">MATRUBHUMI SHELTERS</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="index.php">MATRUBHUMI SHELTERS</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown open">
-                    <a class="nav-link link text-white dropdown-toggle display-4" href="page2.html" data-toggle="dropdown-submenu" aria-expanded="true">
+                    <a class="nav-link link text-white dropdown-toggle display-4" href="page2.php" data-toggle="dropdown-submenu" aria-expanded="true">
                         
-                        Sri Achyutananda Residency<br></a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="page2.html">Total Layout<br></a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="https://mobirise.com" aria-expanded="false" data-toggle="dropdown-submenu">Floor Plan</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">Day View</a><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">Night View</a></div></div><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">3 Bedrooms</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">2 Bedrooms Classic</a><a class="text-white dropdown-item display-4" href="page2.html#features2-z" aria-expanded="false">2 Bedrooms Premium</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">2 Bedrooms Standard</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">1 Bedroom</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">Amenities</a><a class="text-white dropdown-item display-4" href="page2.html#features2-11" aria-expanded="false">Commercial Activities</a></div>
+                        Sri Achyutananda Residency<br></a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="page2.php">Total Layout<br></a><div class="dropdown"><a class="text-white dropdown-item dropdown-toggle display-4" href="https://mobirise.com" aria-expanded="false" data-toggle="dropdown-submenu">Floor Plan</a><div class="dropdown-menu dropdown-submenu"><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">Day View</a><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">Night View</a></div></div><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">3 Bedrooms</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">2 Bedrooms Classic</a><a class="text-white dropdown-item display-4" href="page2.php#features2-z" aria-expanded="false">2 Bedrooms Premium</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">2 Bedrooms Standard</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">1 Bedroom</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">Amenities</a><a class="text-white dropdown-item display-4" href="page2.php#features2-11" aria-expanded="false">Commercial Activities</a></div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="index.html#content7-r">
+                    <a class="nav-link link text-white display-4" href="index.php#content7-r">
                         
                         About Company</a>
-                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="page1.html">
-                        Future Projects</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html#footer1-c">
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="page1.php">
+                        Future Projects</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.php#footer1-c">
                         Contact &nbsp;Us</a></li></ul>
             
         </div>
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.co/a">free web page builder</a></section><section class="mbr-section content4 cid-rHf7COvecf" id="content4-e">
+<section class="engine"><a href="https://mobirise.co/i">how to build a website for free</a></section><section class="mbr-section content4 cid-rHf7COvecf" id="content4-e">
 
     
 
