@@ -44,7 +44,7 @@
                          <img src="assets/images/logo-matrubhumi-2544x1715.jpg" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="index.php">MATRUBHUMI SHELTERS</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="index.php">MATRUBHUMI SHELTERS PVT. LTD.</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
